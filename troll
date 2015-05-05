@@ -1,0 +1,2 @@
+port="$@"
+Troll/troll1 -C 127.0.0.1 -S zeta.cse.ohio-state.edu -a 19868 -b 19870 $port
